@@ -1,0 +1,7 @@
+git init         # Initialize a new Git repository
+git status       # Check status of changes
+git add .        # Stage all changes
+git commit -m "message"  # Commit staged changes
+git push origin main     # Push changes to GitHub
+git pull origin main     # Pull latest code from GitHub
+git checkout -b new-branch  # Create and switch to new branch
